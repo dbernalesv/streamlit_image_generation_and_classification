@@ -1,0 +1,5 @@
+accelerate
+diffusers 
+transformers  
+scipy
+streamlit
